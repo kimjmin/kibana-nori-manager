@@ -1,5 +1,3 @@
-npm-debug.log*
-node_modules
-/build/
-/public/app.css
+/build
+/target
 .DS_Store
